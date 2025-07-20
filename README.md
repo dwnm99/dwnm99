@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Dimas! 👋
 
-<!--
-**dwnm99/dwnm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist @ Mamikos** | ex-Data Analyst @ Tokopedia | Bangkit 2021 Graduate  
+*Turning messy data into actionable insight in tech & product teams.*
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 3+ years of data analytics experience in major Indonesian tech companies (Tokopedia, Mamikos)
+- Skilled in SQL, Python, A/B test automation, business analysis, experiment design
+- Passionate about making impact through data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Portfolio Highlights
+
+- [Automated A/B Test Experiment Analysis for Dynamic Pages (Tokopedia)](TBA)
+- [Bangkit Capstone Project: TemanIKM](TBA)
+
+### 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/dimaswnm) • [Email](mailto:dimaswahyunm@gmail.com)
+
+---
+
+> *Feel free to review my best projects below!*
