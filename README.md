@@ -10,7 +10,7 @@
 
 ### 💡 Portfolio Highlights
 
-- [Automated A/B Test Experiment Analysis for Dynamic Pages (Tokopedia)](TBA)
+- [Automated A/B Test Experiment Analysis for Dynamic Pages (Tokopedia)](https://github.com/dwnm99/abtest-automation/tree/main)
 - [Bangkit Capstone Project: TemanIKM](TBA)
 
 ### 📫 Let's Connect
