@@ -12,6 +12,7 @@
 
 - [Automated A/B Test Experiment Analysis for Dynamic Pages (Tokopedia)](https://github.com/dwnm99/abtest-automation/tree/main)
 - [Bangkit Capstone Project: TemanIKM](https://github.com/ardy04/mtrid2)
+- [Thesis: Hybrid Modeling Transfer Function–GRU with News Sentiment as Input Series for Stock Price Prediction](https://github.com/dwnm99/hybrid-transfer-function-and-GRU-model-with-news-sentiment)
 
 ### 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/dimaswnm) • [Email](mailto:dimaswahyunm@gmail.com)
